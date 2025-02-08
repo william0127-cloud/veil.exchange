@@ -1,0 +1,14 @@
+body {
+  color: #dedede;
+  margin: 0;
+  font-size: 16px;
+  font-family: Inter, Roboto, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
